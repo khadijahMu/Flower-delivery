@@ -1,21 +1,3 @@
-#  Flower Delivery API  
-A Node.js & Express backend for managing flower listings, with MongoDB & Multer for image uploads.
-
-##  Features  
--  **Express.js** - Fast and minimal web framework  
--  **MongoDB & Mongoose** - Database & ORM  
--  **Multer** - Image upload middleware  
--  **CORS & Error Handling** - Secure and reliable API  
-
-##  Installation  
-```bash
-git clone https://github.com/khadijahMu/Flower-delivery.git
-cd Flower-delivery
-npm install
-npm start
-
-
-Technologies Used
 Node.js
 Express.js
 MongoDB
